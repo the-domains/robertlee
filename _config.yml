@@ -1,0 +1,14 @@
+layout_spectrum: 0.1989247
+color:
+  saturation: 0.5376344
+  brandStrength: 0.1103122
+  lightness: 0.344086
+  rhythmicContrast: 0.6505376
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.781362
+name: RobertLee
